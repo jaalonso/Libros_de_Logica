@@ -25,7 +25,7 @@
 + H. Hermes. [[https://bit.ly/3wWynhx][Introduction to mathematical logic]]. (Springer, 1973).
 + W. Hodges. [[https://bit.ly/3KJGzHL][A shorter model theory]]. (Cambridge University Press, 1997).
 + W. Hodges. [[https://bit.ly/3QiraPE][Model theory]]. (Cambridge University Press, 1993).
-+ M. Huth y M. Ryan. [[http://bit.ly/qU3iF6][Logic in computer science: Modelling and reasoning about systems]] (Cambridge University Press, 2004) [Incluye el [[http://www.cs.bham.ac.uk/research/lics/tutor/index.html][tutor en la Red]]].
++ M. Huth y M. Ryan. [[http://bit.ly/qU3iF6][Logic in computer science: Modelling and reasoning about systems]] (Cambridge University Press, 2004).
 + C. Ivorra. [[https://www.uv.es/ivorra/Libros/LM.pdf][Lógica matemática]].
 + C. Ivorra. [[https://www.uv.es/ivorra/Libros/TC.pdf][Teoría de conjuntos]].
 + D.W. Kueker. [[http://bit.ly/AE583w][Notes on mathematical logic]].
