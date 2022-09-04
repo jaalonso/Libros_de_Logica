@@ -1,0 +1,52 @@
+#+TITLE: Libros de lógica
+
++ J.A. Alonso, A. Cordón y M.J. Hidalgo. [[https://www.cs.us.es/~jalonso/cursos/li/temas/temas-LI-2015-16.pdf][Temas de "Lógica informática"]] (Universidad de Sevilla, 2015).
++ J.A. Alonso y M.J. Hidalgo [[https://www.cs.us.es/~jalonso/cursos/lmf-16/temas/temas-LMF-2016-17.pdf][Temas de "Lógica matemática y fundamentos"]] (Universidad de Sevilla, 2016).
++ J.A. Alonso. [[https://www.cs.us.es/~jalonso/publicaciones/1996-slc.pdf][Lógica computacional]]. (Universidad de Sevilla, 1997).
++ J.A. Alonso. [[https://www.cs.us.es/~jalonso/cursos/li/temas/examenes-li.pdf][Soluciones de exámenes de "Lógica informática"]]. (Universidad de Sevilla, 2009).
++ J.A. Alonso. [[https://www.cs.us.es/~jalonso/publicaciones/2007-Logica_en_Haskell.pdf][Lógica en Haskell.]] (Universidad de Sevilla, 2007).
++ J.A. Alonso. [[https://www.cs.us.es/~jalonso/publicaciones/1997-98-TC-temas.pdf][Teoría de conjuntos]]. (Universidad de Sevilla, 1997).
++ J.A. Alonso, J. Borrego, M.J. Pérez y J.L. Ruiz. [[http://www.cs.us.es/~jalonso/publicaciones/2007-LibroTeoriaConjuntos.pdf][Curso práctico de teoría de conjuntos]]. (Universidad de Sevilla, 2007).
++ D.W. Barnes, J.M. Mack. [[https://bit.ly/3RkIPHW][An algebraic introduction to mathematical logic]]. (Springer, 1975).
++ J.L. Bell y M. Machover. [[https://archive.org/details/courseinmathemat0000bell][A course in mathematical logic]]. (North-Holland, 1977).
++ M. Ben-Ari. [[http://bit.ly/qExwyZ][Mathematical logic for computer science]] (Springer-Verlag, 2001)
++ R. Bornat. [[http://bit.ly/oithic][Proof and disproof in formal logic: an introduction for programmers]] (Oxford University Press, 2005)
++ I. Chiswell, W. Hodges. [[https://bit.ly/3TIx9Ab][Mathematical logic]]. (Oxford University Prees, 2007).
++ J.N. Crossley, C.J. Ash, C.J. Brickhill, J.C. Stillwell. [[https://bit.ly/3eptlnz][What is mathematical logic?]] (Dover, 1972).
++ L. Csirmaz, Z. Gyenis. [[https://books.google.es/books?id=bZVkEAAAQBAJ&lpg=PP1&hl=es&pg=PP.1#v=onepage&q&f=false][Mathematical logic (Exercises and solutions)]]. (Springer, 2022).
++ H.D. Ebbinghaus, J. Flum, W. Thomas. [[https://bit.ly/3Rzhp0z][Mathematical logic]]. (Springer, 1994).
++ H.B. Enderton. [[https://bit.ly/3CTBgDK][A mathematical introduction to logic]]. (Academic Press, 1972).
++ H.B. Enderton. [[https://bit.ly/3cJNlR9][Elements of set theory]]. (Academic Press, 1977).
++ A. Fernández. [[https://www.cs.us.es/cursos/lm/apuntes-2012.pdf][Lógica matemática]]. (Universidad de Sevilla, 2011).
++ A. Fernández. [[https://www.cs.us.es/cursos/tconj-2007/notas-tc10.pdf][Teoría de conjuntos]]. (Universidad de Sevilla, 2010).
++ A. Fernández. [[https://www.cs.us.es/cursos/tmo-2007/notas-tm09.pdf][Teoría de modelos]]. (Universidad de Sevilla, 2009).
++ M. Fitting. [[http://bit.ly/mWrdXn][First-order logic and automated theorem proving]] (Springer,  1995).
++ A.G. Hamilton. [[https://bit.ly/3Ro0f6I][Logic for mathematicians]]. (Cambridge University Press, 1988).
++ H. Hermes. [[https://bit.ly/3wWynhx][Introduction to mathematical logic]]. (Springer, 1973).
++ W. Hodges. [[https://bit.ly/3KJGzHL][A shorter model theory]]. (Cambridge University Press, 1997).
++ W. Hodges. [[https://bit.ly/3QiraPE][Model theory]]. (Cambridge University Press, 1993).
++ M. Huth y M. Ryan. [[http://bit.ly/qU3iF6][Logic in computer science: Modelling and reasoning about systems]] (Cambridge University Press, 2004) [Incluye el [[http://www.cs.bham.ac.uk/research/lics/tutor/index.html][tutor en la Red]]].
++ C. Ivorra. [[https://www.uv.es/ivorra/Libros/LM.pdf][Lógica matemática]].
++ C. Ivorra. [[https://www.uv.es/ivorra/Libros/TC.pdf][Teoría de conjuntos]].
++ D.W. Kueker. [[http://bit.ly/AE583w][Notes on mathematical logic]].
++ K. Kunen. [[https://www.math.wisc.edu/~miller/old/m771-10/kunen770.pdf][The foundations of mathematics]].
++ F.F. Lara. [[https://www.cs.us.es/cursos/fm-2013/fm.pdf][Fundamentos de la Matemática]]. (Universidad de Sevilla. 2013).
++ L. de Ledesma. [[http://www.ra-ma.es/libros/LOGICA-PARA-LA-COMPUTACION/3234/978-84-7897-938-7][Lógica para la computación]]. (RaMa, 2009).
++ C.C. Leary. [[https://openlibra.com/es/book/download/a-friendly-introduction-to-mathematical-logic][A friendly introduction to mathematical logic]].
++ Z. Lu. [[https://bit.ly/3cOINsP][Mathematical logic for computer science]]. (World Scientific, 1998).
++ P.D. Magnus. [[https://scholarsarchive.library.albany.edu/cgi/viewcontent.cgi?article=1003&context=cas_philosophy_scholar_books][ParaTodo x: Una introducción a la lógica formal]].
++ M. Manzano. [[https://bit.ly/3qbV8ug][Model theory]]. (Clarendon Press, 1999).
++ E. Mendelson. [[https://bit.ly/3TSNdjc][Introduction to mathematical logic]]. (Chapman & Hall, 1997).
++ J.R. Mileti. [[https://math.berkeley.edu/~antonio/math125A/mathlogicP1.pdf][Mathematical logic for mathematicians, Part I]].
++ J.D. Monk. [[https://bit.ly/3CZsJPO][Mathematical logic]]. (Springer, 1976).
++ Y.N. Moschovakis. [[https://www.math.ucla.edu/~ynm/lectures/lnl.pdf][Lecture notes in logic]].
++ D. Mundici. [[http://bit.ly/LjdscS ][Logic: a brief course]]. (Springer, 2012).
++ A. Nerode y R.A. Shore. [[http://bit.ly/pwSgWx][Logic for applications]] (Springer, 1997)
++ A. Prestel, C.N. Delzell. [[https://bit.ly/3Qh7QSX][Mathematical logic and model theory (A brief introduction)]]. (Springer, 2011).
++ W. Rautenberg. [[https://bit.ly/3q8l2PF][A concise introduction to mathematical logic]]. (Springer, 2010).
++ S. Reeves y M. Clarke. [[http://www.cs.waikato.ac.nz/~stever/LCS.pdf][Logic for computer science]] (Addison-Wesley 1990 & 2003)
++ P. Schlicht. [[https://philippschlicht.github.io/teaching/files/Lecture.pdf][Lecture notes: Introduction to mathematical logic]].
++ J.R. Shoenfield. [[http://bit.ly/32raFcJ][Mathematical logic]]. (Addison-Wesley, 1967).
++ U. Schöning. [[http://bit.ly/nxHSD5][Logic for computer scientists]] (Birkhäuser, 1989)
++ R.A.G. Seely. [[http://bit.ly/xPzfrP][Principles of mathematics and logic (A course for liberal arts students)]].
++ M. Srivastava. [[https://books.google.es/books?id=9XxDAAAAQBAJ&lpg=PP1&dq=A%20course%20in%20mathematical%20logic&hl=es&pg=PP1#v=onepage&q&f=false][A course on mathematical logic]]. (Springer-Verlag, 2013).
