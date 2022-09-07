@@ -1,4 +1,4 @@
-#+TITLE: Libros de lógica
+#+TITLE: Logic Books
 
 + J.A. Alonso, A. Cordón y M.J. Hidalgo. [[https://www.cs.us.es/~jalonso/cursos/li/temas/temas-LI-2015-16.pdf][Temas de "Lógica informática"]] (Universidad de Sevilla, 2015).
 + J.A. Alonso y M.J. Hidalgo [[https://www.cs.us.es/~jalonso/cursos/lmf-16/temas/temas-LMF-2016-17.pdf][Temas de "Lógica matemática y fundamentos"]] (Universidad de Sevilla, 2016).
