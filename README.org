@@ -8,6 +8,7 @@
 + J.A. Alonso. [[https://www.cs.us.es/~jalonso/publicaciones/1997-98-TC-temas.pdf][Teoría de conjuntos]]. (Universidad de Sevilla, 1997).
 + J.A. Alonso, J. Borrego, M.J. Pérez y J.L. Ruiz. [[http://www.cs.us.es/~jalonso/publicaciones/2007-LibroTeoriaConjuntos.pdf][Curso práctico de teoría de conjuntos]]. (Universidad de Sevilla, 2007).
 + D.W. Barnes, J.M. Mack. [[https://bit.ly/3RkIPHW][An algebraic introduction to mathematical logic]]. (Springer, 1975).
++ J. Barwise. [[https://bit.ly/3RLefH4][Handbook of mathematical logic]]. (Noth Holland, 1977).
 + J.L. Bell y M. Machover. [[https://archive.org/details/courseinmathemat0000bell][A course in mathematical logic]]. (North-Holland, 1977).
 + M. Ben-Ari. [[http://bit.ly/qExwyZ][Mathematical logic for computer science]] (Springer-Verlag, 2001)
 + R. Bornat. [[http://bit.ly/oithic][Proof and disproof in formal logic: an introduction for programmers]] (Oxford University Press, 2005)
@@ -50,3 +51,4 @@
 + U. Schöning. [[http://bit.ly/nxHSD5][Logic for computer scientists]] (Birkhäuser, 1989)
 + R.A.G. Seely. [[http://bit.ly/xPzfrP][Principles of mathematics and logic (A course for liberal arts students)]].
 + M. Srivastava. [[https://books.google.es/books?id=9XxDAAAAQBAJ&lpg=PP1&dq=A%20course%20in%20mathematical%20logic&hl=es&pg=PP1#v=onepage&q&f=false][A course on mathematical logic]]. (Springer-Verlag, 2013).
++ R. Zach. [[https://slc.openlogicproject.org/slc-screen.pdf][Sets, logic, computation (An open introduction to metalogic)]].
