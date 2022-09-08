@@ -36,6 +36,7 @@
 + W. Rautenberg. [[https://bit.ly/3q8l2PF][A concise introduction to mathematical logic]]. (Springer, 2010).
 + S. Reeves y M. Clarke. [[http://www.cs.waikato.ac.nz/~stever/LCS.pdf][Logic for computer science]] (Addison-Wesley 1990 & 2003)
 + P. Schlicht. [[https://philippschlicht.github.io/teaching/files/Lecture.pdf][Lecture notes: Introduction to mathematical logic]].
++ P. Smith. [[https://www.logicmatters.net/resources/pdfs/LogicStudyGuide.pdf][Beginning mathematical logic (A study guide)]]. (Logic Matters, Cambridge, 2022).
 + J.R. Shoenfield. [[http://bit.ly/32raFcJ][Mathematical logic]]. (Addison-Wesley, 1967).
 + U. Schöning. [[http://bit.ly/nxHSD5][Logic for computer scientists]] (Birkhäuser, 1989)
 + R.A.G. Seely. [[http://bit.ly/xPzfrP][Principles of mathematics and logic (A course for liberal arts students)]].
